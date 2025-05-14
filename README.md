@@ -14,7 +14,7 @@ INFORMACION DEL CURSO:
 
 INTEGRANTES:
 
-		Lorenzo Sanches Lexiss
+		Lorenzo Sanchez Lexiss
 
 		Perez Cristino Victor Alejandro
 
